@@ -12,6 +12,7 @@ const quotesArray = [
     "Setting goals is the first step in turning the invisible into the visible.",
     "You can't cross the sea merely by standing and staring at the water.",
     "Opportunity does not knock, it presents itself when you beat down the door.",
+    "Something positive here",
 ];
 
 const quoteBtn = document.getElementById("quote-cta");
